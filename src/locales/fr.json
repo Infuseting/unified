@@ -1,0 +1,66 @@
+{
+  "searchPlaceholder": "Rechercher...",
+  "noAppsMessage": "Aucune application disponible pour votre rôle.",
+  "gridIconAlt": "Grille",
+  "title": "Créer une application Next",
+  "languageLabel": "Langue",
+  
+  
+  "category.favorite": "Favoris"
+  ,
+  "action.open": "Ouvrir",
+  "action.cancel": "Annuler",
+  "action.close": "Fermer",
+  "noActionsAvailable": "Aucune action disponible.",
+
+  "category.dokuc3": "DokuC3",
+
+  "app.dokuc3" : "Site Web DokuC3",
+
+  "app.dokuc3.planning" : "Planning Controle",
+  "app.dokuc3.planning.description": "Consultez le planning des contrôles pour chaque année.",
+  "app.dokuc3.1": "Planning Controle - Première année",
+  "app.dokuc3.2": "Planning Controle - Deuxième année",
+  "app.dokuc3.3": "Planning Controle - Troisième année",
+  
+  "app.dokuc3.objet_perdu" : "Objets trouvés",
+
+  "category.edt": "Emploi du temps",
+
+  "app.edt.zimbra": "Emploi du temps Zimbra",
+  "app.edt.infuseting": "Emploi du temps Infuseting",
+  "app.edt.zimmerman": "Emploi du temps Zimmerman",
+  "app.edt.maner": "Emploi du temps Maner",
+  "app.edt.ade": "Emploi du temps ADE",
+
+  "category.tools": "Outils",
+
+  "app.zimbra": "Zimbra",
+  "app.ecampus": "eCampus",
+  "app.webnotes": "Webnotes",
+  "app.unicloud": "Unicloud",
+  "app.jfanne": "Site Internet de JFA"
+  ,
+  "faq.title": "FAQ",
+  
+  "faq.certificat.q": "J’ai besoin de mon certificat de scolarité, où puis‑je le trouver ?",
+  "faq.certificat.a": "https://catalogue-de-services.unicaen.fr/service/gestion-fiche/affiche/603?lang=fr",
+
+  "faq.lostItem.q": "J’ai perdu un objet, où puis‑je le retrouver ?",
+  "faq.lostItem.a": "https://www.iutcaen.unicaen.fr/dokuc3/objets_trouves ou demander à la secrétaire d'information communication",
+
+  "faq.timetable.q": "Je ne vois pas mon emploi du temps, que dois‑je faire ?",
+  "faq.timetable.a": "Prévenir la secrétaire soit directement soit par mail (iut.ifs.informatique@unicaen.fr)",
+
+  "faq.inscriptionPedagogique.q": "Je viens de m’inscrire administrativement, comment faire mon inscription pédagogique ?",
+  "faq.inscriptionPedagogique.a": "L'inscription pédagogique se fait à la rentrée. Il faudra déposer au secrétariat une attestation de responsabilité civile couvrant l’année universitaire.",
+
+  "faq.leocarteReceived.q": "Je n’ai pas reçu ma Léocarte que dois‑je faire ?",
+  "faq.leocarteReceived.a": "https://sgc.unicaen.fr",
+
+  "faq.leocarteNotWorking.q": "Ma Léocarte ne fonctionne pas, que dois‑je faire ?",
+  "faq.leocarteNotWorking.a": "Se connecter sur https://sgc.unicaen.fr et vérifier que la Léocarte est activée. Si la Léocarte est activée mais ne fonctionne pas, contacter l'assistance : assistance-leocarte.etudiant@unicaen.fr",
+
+  "faq.resign.q": "Je souhaite démissionner de la formation, que dois‑je faire ?",
+  "faq.resign.a": "1- Prévenir son directeur des études\n2- Faire une lettre de démission et la transmettre à son directeur des études"
+}

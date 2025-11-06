@@ -4,6 +4,7 @@ import { getSession, deleteSessionById } from '@/lib/sessionStore'
 
 export async function middleware(request: NextRequest) {
   const { nextUrl } = request
+  return NextResponse.next()
 
   const pathname = nextUrl.pathname
   if (pathname.startsWith('/api/') || pathname.startsWith('/_next/') || pathname.startsWith('/static/') || pathname.startsWith('/favicon.ico')) {

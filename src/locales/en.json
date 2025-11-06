@@ -1,0 +1,36 @@
+{
+	"searchPlaceholder": "Search...",
+	"noAppsMessage": "No applications available for your role.",
+	"gridIconAlt": "Grid",
+	"title": "Create Next App",
+	"languageLabel": "Language",
+	"category.favorite": "Favorites",
+	"action.open": "Open",
+	"action.cancel": "Cancel",
+	"action.close": "Close",
+	"noActionsAvailable": "No actions available.",
+
+	"faq.title": "FAQ",
+	
+  "faq.certificat.q": "I need my enrollment certificate, where can I find it?",
+  "faq.certificat.a": "https://catalogue-de-services.unicaen.fr/service/gestion-fiche/affiche/603?lang=fr",
+
+  "faq.lostItem.q": "I lost an item — where can I find it?",
+  "faq.lostItem.a": "https://www.iutcaen.unicaen.fr/dokuc3/objets_trouves or contact the information/communication secretary",
+
+  "faq.timetable.q": "I don't see my timetable — what should I do?",
+  "faq.timetable.a": "Inform the secretary either directly or by email (iut.ifs.informatique@unicaen.fr)",
+
+  "faq.inscriptionPedagogique.q": "I have registered administratively — how do I complete my course registration?",
+  "faq.inscriptionPedagogique.a": "Course registration is done at the start of the year. You must provide at the office a civil liability insurance certificate covering the academic year.",
+
+  "faq.leocarteReceived.q": "I haven't received my Léocarte — what should I do?",
+  "faq.leocarteReceived.a": "https://sgc.unicaen.fr",
+
+  "faq.leocarteNotWorking.q": "My Léocarte doesn't work — what should I do?",
+  "faq.leocarteNotWorking.a": "Log in to https://sgc.unicaen.fr and verify your Léocarte is activated. If it's activated but doesn't work, contact support: assistance-leocarte.etudiant@unicaen.fr",
+
+  "faq.resign.q": "I want to resign from the program — what should I do?",
+  "faq.resign.a": "1- Inform your program director\n2- Write a resignation letter and send it to your program director"
+}
+

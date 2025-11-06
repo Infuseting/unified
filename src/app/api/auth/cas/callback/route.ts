@@ -75,7 +75,6 @@ export async function GET(request: NextRequest) {
     sameSite: 'lax',
     path: '/',
     maxAge: 60 * 60 * 8, // 8 hours
-  })
-
+  })  
   return res
 }
