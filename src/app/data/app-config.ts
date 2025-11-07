@@ -6,7 +6,8 @@ import { IconType } from "react-icons/lib";
 export interface App {
   id: string;
   nameKey: string;
-  icon: IconType;
+  // icon may be a react-icons component (IconType) or a string (data URL or external favicon URL)
+  icon: IconType | string;
   url: string;
   roles: string[];
   // Optional sub-choices that can be shown in a modal. Each may have its own redirect URL.

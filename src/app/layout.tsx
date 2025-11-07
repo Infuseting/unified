@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import TranslationProvider from "@/lib/i18n";
 import { ModalProvider } from "@/lib/modalContext";
+import { EditModeProvider } from "@/lib/editModeContext";
 import AppModal from "@/app/components/AppModal";
 
 const geistSans = Geist({
@@ -32,7 +33,9 @@ export default function RootLayout({
       >
         <TranslationProvider>
           <ModalProvider>
-            {children}
+            <EditModeProvider>
+              {children}
+            </EditModeProvider>
             <AppModal />
           </ModalProvider>
         </TranslationProvider>
